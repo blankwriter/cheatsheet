@@ -1,0 +1,87 @@
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 32px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+#table-info {
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+  background-color: #cce4c7;
+  text-align: center;
+  display: table;
+  border-collapse: separate;
+  box-sizing: border-box;
+  line-height: normal;
+  border: 4px solid black;
+  width: 400px;
+  margin: 0 auto; 
+}
+
+#table-info tr {
+  display: table-row;
+  vertical-align: inherit;
+
+}
+
+#table-info thead {
+  background-color:#73a369;
+  vertical-align: middle;
+  border-color: darkslategray;
+  display: table-header-group;
+
+}
+
+#table-info tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+section {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  line-height: 1.0cm;
+}
+
+.davido{
+  background-color: #683c2c;
+
+}
+
+.dave{ 
+  background-color: #4c352d;
+
+}
+
+.lilbaby{
+  background-color: #9eb599;
+
+}
+
+.koffee{
+  background-color: #5e5555;
+
+}
+.sark{
+  background-color: rgb(83, 83, 33);
+}
+a{
+  color: rgba(206, 92, 16, 0.753);
+}
+
+.artist-name{
+  border: 2px solid black;
+}
+
+.years{
+  border: 2px solid black;
+}
+.country{
+  border: 2px solid black;
+}
